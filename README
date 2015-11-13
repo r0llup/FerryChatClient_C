@@ -1,0 +1,9 @@
+Changelog
+_________
+
+- Implémentation du chat (25%).
+  - connexion UDP.
+  - multicast et paramétrage.
+  - réception de messages.
+- Implémentation du login.
+- Première version de l'application.
